@@ -21,6 +21,7 @@ namespace GameTest1
         {
             MessageBox.Show("Marat Krasava!");
             MessageBox.Show("Marat Krasava!");
+            MessageBox.Show("Marat Krasava!!!");
 
         }
     }
